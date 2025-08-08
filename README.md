@@ -5,9 +5,9 @@ It highlights detected objects above a specified confidence threshold and saves 
 
 ## Example Output
 <p>Without class filtering</p>
-<img src="detected_img_all.png" alt="Object Detection Example" width="60%"/>
+<img src="detected_img_no_filter.png" alt="Object Detection Example" width="60%"/>
 <p>With class filtering</p>
-<img src="detected_img.png" alt="Object Detection Example" width="60%"/>
+<img src="detected_img_with_filter.png" alt="Object Detection Example" width="60%"/>
 
 ## Features
 

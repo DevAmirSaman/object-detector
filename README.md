@@ -1,13 +1,13 @@
 # Object Detector
 
-Object Detector is a Python-based application that uses the YOLO model to detect objects in images.
+**Object Detector** is a Python-based application that uses the **YOLO** model to detect objects in images.
 It highlights detected objects above a specified confidence threshold and saves an output image with a color-coded legend showing the detected classes and their counts.
 
 ## Example Output
 <p>Without class filtering</p>
-<img src="detected_img_all.png" alt="Object Detection Example" width="50%"/>
+<img src="detected_img_all.png" alt="Object Detection Example" width="60%"/>
 <p>With class filtering</p>
-<img src="detected_img.png" alt="Object Detection Example" width="50%"/>
+<img src="detected_img.png" alt="Object Detection Example" width="60%"/>
 
 ## Features
 
